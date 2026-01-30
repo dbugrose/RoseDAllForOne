@@ -17,4 +17,4 @@
 //Guess It
 //Restaurant Picker
  
- //Peer Review - Brandon Estrada - 
+ //Peer Review - Brandon Estrada - Your endpoints are working for your API, I am able to get an endpoint back from your Azure link. Code looks clean and everything functions properly. I did notice a small issue with MCSevenChallenge, the reversing numbers only. There isn't data validation for inputs that are non numbers. Other than that, everything else looks good!
