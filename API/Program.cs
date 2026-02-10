@@ -20,6 +20,16 @@ builder.Services.AddScoped<MCSevenServices>();
 builder.Services.AddScoped<MCEightServices>();
 builder.Services.AddScoped<MCNineServices>();
 builder.Services.AddScoped<MCTenServices>();
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllForOne",
+    builder =>
+    {
+        builder.AllowAnyOrigin()
+        .AllowAnyHeader()
+        .AllowAnyMethod();
+    });
+});
 
 
 var app = builder.Build();
@@ -31,6 +41,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("AllForOne");
 
 app.UseHttpsRedirection();
 
