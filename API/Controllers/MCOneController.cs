@@ -17,10 +17,10 @@ namespace API.Controllers
         {
             _mcOneServices = mcOneServices;
         }
-[HttpGet("HelloWorld")]
-        public string HelloWorld()
+[HttpGet("SayHello")]
+        public string GreetByName(string name)
         {
-           return _mcOneServices.HelloWorld();
+           return _mcOneServices.GreetByName(name);
         }
     }
 }

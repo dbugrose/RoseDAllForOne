@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kNpJlejMmQM=",
+  "dgSpecHash": "cFmh4bZMGAE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\darcy\\OneDrive\\Documents\\Academy\\level2\\week4\\RoseDAllForOne\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\darcy\\OneDrive\\Documents\\Academy\\level2\\week4\\RoseDAllForOne\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\darcy\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
     "C:\\Users\\darcy\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",

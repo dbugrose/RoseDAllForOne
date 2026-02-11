@@ -20,6 +20,8 @@ builder.Services.AddScoped<MCSevenServices>();
 builder.Services.AddScoped<MCEightServices>();
 builder.Services.AddScoped<MCNineServices>();
 builder.Services.AddScoped<MCTenServices>();
+builder.Services.AddScoped<MCElevenServices>();
+
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllForOne",
