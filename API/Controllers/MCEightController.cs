@@ -19,9 +19,9 @@ namespace API.Controllers
 
     [HttpGet("RandomAnswer")]
 
-    public string RandomAnswer(string question)
+    public string RandomAnswer()
         {
-            return _mcEightServices.MagicEightBall(question);
+            return _mcEightServices.MagicEightBall();
         }
     }
 }

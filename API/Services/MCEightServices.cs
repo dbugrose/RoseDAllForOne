@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace API.Services
 {
     public class MCEightServices
-    {public string MagicEightBall(string question)
+    {public string MagicEightBall()
         { string [] randomAnswer = ["Try again.", "Perhaps.", "Sure, why not?", "Not likely.", "Signs point to yes.", "My reply is no.", "Outlook is bright."];
            if (question.Contains("?"))
            { Random random = new Random();
