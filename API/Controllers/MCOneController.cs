@@ -17,7 +17,7 @@ namespace API.Controllers
         {
             _mcOneServices = mcOneServices;
         }
-[HttpGet("SayHello")]
+[HttpGet("SayHello/{name}")]
         public string GreetByName(string name)
         {
            return _mcOneServices.GreetByName(name);

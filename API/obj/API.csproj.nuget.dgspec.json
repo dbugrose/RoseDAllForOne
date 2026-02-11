@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\darcy\\OneDrive\\Documents\\Academy\\level2\\week4\\RoseDAllForOne\\api\\API.csproj": {}
+    "C:\\Users\\darcy\\OneDrive\\Documents\\Academy\\level2\\week4\\RoseDAllForOne\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\darcy\\OneDrive\\Documents\\Academy\\level2\\week4\\RoseDAllForOne\\api\\API.csproj": {
+    "C:\\Users\\darcy\\OneDrive\\Documents\\Academy\\level2\\week4\\RoseDAllForOne\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\darcy\\OneDrive\\Documents\\Academy\\level2\\week4\\RoseDAllForOne\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\darcy\\OneDrive\\Documents\\Academy\\level2\\week4\\RoseDAllForOne\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\darcy\\OneDrive\\Documents\\Academy\\level2\\week4\\RoseDAllForOne\\api\\API.csproj",
+        "projectPath": "C:\\Users\\darcy\\OneDrive\\Documents\\Academy\\level2\\week4\\RoseDAllForOne\\API\\API.csproj",
         "packagesPath": "C:\\Users\\darcy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\darcy\\OneDrive\\Documents\\Academy\\level2\\week4\\RoseDAllForOne\\api\\obj\\",
+        "outputPath": "C:\\Users\\darcy\\OneDrive\\Documents\\Academy\\level2\\week4\\RoseDAllForOne\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\darcy\\AppData\\Roaming\\NuGet\\NuGet.Config"

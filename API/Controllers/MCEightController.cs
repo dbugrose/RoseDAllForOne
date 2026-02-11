@@ -17,7 +17,7 @@ namespace API.Controllers
             _mcEightServices = mcEightServices;
         }
 
-    [HttpGet("RandomAnswer/{question}")]
+    [HttpGet("RandomAnswer")]
 
     public string RandomAnswer(string question)
         {
